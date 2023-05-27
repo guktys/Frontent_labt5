@@ -1,0 +1,15 @@
+{
+  "about": {
+    "donations": "Donations raised: %1$s",
+    "header": "About us"
+  },
+  "home": {
+    "created_by": "This tutorial was brought to you by %1$s.",
+    "header": "Welcome to the Vue 3 I18n tutorial!",
+    "num_visits": "This page hasn't been visited :( | This page has been visited %1$s time | This page has been visited %1$s times"
+  },
+  "nav": {
+    "about": "About",
+    "home": "Home"
+  }
+}
